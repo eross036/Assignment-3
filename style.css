@@ -1,0 +1,27 @@
+@import { url(http://fonts.googleapis.com/css?family=Aldrich)
+
+}
+body{
+   font-family: 'Varela', sans-serif;
+   font-size: 3rem;
+   background: url(dieter_rams-6.jpg)no-repeat center center fixed;
+   background-size: cover;
+   height: 1000px;
+
+}
+strong{
+   font-size: 20rem;
+   margin-left:20px;
+}
+div{
+margin-left: 80px
+
+}
+ul {
+    display: inline ;
+    margin: 0;
+    padding: 0;
+}
+header{
+   position: fixed;
+}
