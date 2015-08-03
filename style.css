@@ -11,17 +11,38 @@ body{
 }
 strong{
    font-size: 20rem;
-   margin-left:20px;
+   margin-left: 80px;
 }
 div{
-margin-left: 80px
+   margin-left: 80px;
+   padding: 0px;
 
 }
-ul {
+ul{
     display: inline ;
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding:0px;
+    text-decoration: none;
 }
-header{
-   position: fixed;
+nav{
+   font-size: 40px;
+   padding: 10px;
+   margin-left: 400px;
+   text-decoration: none;
 }
+span{
+   font-size: 20px;
+
+}
+footer{
+   font-size: 35px;
+   margin-left: 1100px;
+   margin-top: 100px;
+}
+a:hover {
+    font-size: 30px;
+    padding: 20px;
+    padding: 10px;
+}
+}
+
